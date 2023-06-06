@@ -9,4 +9,4 @@
                                                    |___/                            
 ```
 
-This is a space where I showcase my work, ideas, and accomplishments. Here, you'll find a collection of my projects, ranging from web development, data analysis, machine learning, and more. I am passionate about leveraging technology and creativity to solve problems and create meaningful solutions. Feel free to explore my project repository and get inspired. I hope my work can inspire you and spark your curiosity. Thank you for visiting!
+This is a space where I showcase my work, ideas, and accomplishments. Here, you'll find a collection of my projects. I am passionate about leveraging technology and creativity to solve problems and create meaningful solutions. Feel free to explore my project repository and get inspired. I hope my work can inspire you and spark your curiosity. Thank you for visiting!
