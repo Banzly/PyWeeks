@@ -15,7 +15,7 @@
 # # window.geometry("600x400")
 
 # # # Load the background image
-# # background_image = ImageTk.PhotoImage(Image.open(r"D:\\SKRIPSI\\Virual-Mouse\\BG_GUI\\gb.jpg"))
+# # background_image = ImageTk.PhotoImage(Image.open(r""))
 # # background_label = tk.Label(window, image=background_image)
 # # background_label.place(x=0, y=0, relwidth=1, relheight=1)
 
@@ -60,7 +60,7 @@
 # window.geometry("600x400")
 
 # # Load the background image
-# background_image = ImageTk.PhotoImage(Image.open(r"D:\\SKRIPSI\\Virual-Mouse\\BG_GUI\\gb.jpg"))
+# background_image = ImageTk.PhotoImage(Image.open(r""))
 # background_label = tk.Label(window, image=background_image)
 # background_label.place(x=0, y=0, relwidth=1, relheight=1)
 
@@ -116,7 +116,7 @@
     
 
 
-# img1=ImageTk.PhotoImage(Image.open(r"D:\SKRIPSI\\Virual-Mouse\BG_GUI\\pattern.png"))
+# img1=ImageTk.PhotoImage(Image.open(r""))
 # l1=customtkinter.CTkLabel(master=app,image=img1)
 # l1.pack()
 
@@ -155,7 +155,7 @@ def start_function():
     app.destroy()
 
     # Add the code to run the script path using subprocess
-    script_path = r"D:\\SKRIPSI\\Virual-Mouse\\src\\Virtual_Mouse.py"
+    script_path = r""
     subprocess.Popen([sys.executable, script_path])
 
 def exit_function():
