@@ -1,5 +1,6 @@
 ## XSTools
 A modern tool written in Python that automates your xss findings.
+![image](https://github.com/Banzly/PyWeeks/assets/113104087/ced6fd8b-6dff-4838-ae46-274660c168c4)
 
 ### FEATURES
 
